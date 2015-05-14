@@ -1,4 +1,4 @@
-package GUI;
+package common;
 
 public class MainMethod {
 
